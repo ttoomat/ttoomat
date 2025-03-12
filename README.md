@@ -15,7 +15,7 @@
 
 Умею паять, делать простой ремонт, пайка волной. Монтаж по схеме.
 
-Моделировние моделей в Compas3D.
+Создание моделей в Compas3D.
 
 Языки программирования: C/C++, Java, Python. Есть опыт разработки телеграм-ботов. Web-программирование (HTML, JavaScript, CSS, PHP). SQL. Операционные системы: Windows, Linux (Ubuntu), ROS. Docker, Maven. Работа с Command Promt, Far Manager.
 
