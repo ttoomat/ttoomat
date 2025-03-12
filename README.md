@@ -17,6 +17,8 @@
 
 Создание моделей в Compas3D.
 
+Система контроля версий Git. Github, Gitlab.
+
 Языки программирования: C/C++, Java, Python. Есть опыт разработки телеграм-ботов. Web-программирование (HTML, JavaScript, CSS, PHP). SQL. Операционные системы: Windows, Linux (Ubuntu), ROS. Docker, Maven. Работа с Command Promt, Far Manager.
 
 Чтение документации на русском и английском языке. Ведение документации (JavaDoc, комментарии по корпоративной стилистике C/C++, Obsidian, Markdown).
